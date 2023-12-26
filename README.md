@@ -2,7 +2,9 @@
    Projeto de apoio para o artigo "Testes unitários com Next JS, React Hook Form,  Jest e Testing Library" 
 </h1>
 
-[Artigo](https://medium.com/@lspeixotodev/fluxo-de-dados-via-rota-no-angular-58631d598ce5)
+## 📑 Artigo
+
+[Testes unitários com Next JS, React Hook Form, Jest e Testing Librar](https://medium.com/@lspeixotodev/fluxo-de-dados-via-rota-no-angular-58631d598ce5)
 
 ## 💻 Repositório
 
